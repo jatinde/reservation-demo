@@ -18,7 +18,7 @@ public class SampleDataCLR implements CommandLineRunner {
 
     @Override
     public void run(String... strings) throws Exception {
-        /*Stream.of("Jatinder", "Priyanka")
+        /*Stream.of("Jatinder", "Lovely")
             .forEach(rn -> reservationRepository.save(new Reservation(rn)));
 
         reservationRepository.findAll().forEach(System.out::println);*/
